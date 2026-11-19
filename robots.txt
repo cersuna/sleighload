@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cersuna.github.io/sleighload/sitemap.xml
